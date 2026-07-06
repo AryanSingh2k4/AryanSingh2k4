@@ -2,13 +2,13 @@
 
 ### Full-Stack Developer | AI Enthusiast | CSE (IoT & Cyber Security including Blockchain Technology)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=650&lines=Full+Stack+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+TypeScript;Exploring+Blockchain+%26+Web3)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=650&lines=Full+Stack+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+TypeScript;Explor[...]
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student specializing in IoT, Cyber Security, and Blockchain Technology. I enjoy building practical solutions that combine clean user experiences with solid engineering.
+I am a Computer Science Engineering student specializing in IoT, Cyber Security, and Blockchain Technology. I enjoy building practical solutions that combine clean user experiences with solid engin[...]
 
-My recent work includes AI-powered applications, full-stack web platforms, and blockchain-based projects. I am particularly interested in AI, modern web technologies, scalable applications, and building tools that solve real-world problems.
+My recent work includes AI-powered applications, full-stack web platforms, and blockchain-based projects. I am particularly interested in AI, modern web technologies, scalable applications, and bu[...]
 
 * 🎓 B.E. Computer Science Engineering (IoT & Cyber Security including Blockchain Technology)
 * 💻 Full Stack Developer
@@ -90,9 +90,11 @@ A decentralized NFT event ticketing platform using ERC721 smart contracts, React
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://stats.stateful.dev/api/github?username=AryanSingh2k4&theme=dark)](https://github.com/AryanSingh2k4)
+![](https://github-readme-stats.vercel.app/api?username=AryanSingh2k4&theme=radical&hide_border=true&show_icons=true)
 
-[![Top Languages](https://stats.stateful.dev/api/top-langs/?username=AryanSingh2k4&theme=dark&layout=compact)](https://github.com/AryanSingh2k4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh2k4&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSingh2k4&theme=radical&hide_border=true&layout=compact)
 
 ---
 
