@@ -90,11 +90,9 @@ A decentralized NFT event ticketing platform using ERC721 smart contracts, React
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanSingh2k4&theme=radical&hide_border=true&show_icons=true)
+[![GitHub Stats](https://stats.stateful.dev/api/github?username=AryanSingh2k4&theme=dark)](https://github.com/AryanSingh2k4)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh2k4&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSingh2k4&theme=radical&hide_border=true&layout=compact)
+[![Top Languages](https://stats.stateful.dev/api/top-langs/?username=AryanSingh2k4&theme=dark&layout=compact)](https://github.com/AryanSingh2k4)
 
 ---
 
