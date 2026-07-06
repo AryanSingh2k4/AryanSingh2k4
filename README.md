@@ -2,13 +2,13 @@
 
 ### Full-Stack Developer | AI Enthusiast | CSE (IoT & Cyber Security including Blockchain Technology)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=650&lines=Full+Stack+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+TypeScript;Explor[...]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=650&lines=Full+Stack+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+TypeScript;Exploring+AI+and+Emerging+Technologies)
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student specializing in IoT, Cyber Security, and Blockchain Technology. I enjoy building practical solutions that combine clean user experiences with solid engin[...]
+I am a Computer Science Engineering student specializing in IoT, Cyber Security, and Blockchain Technology. I enjoy building practical solutions that combine clean user experiences with solid engineering.
 
-My recent work includes AI-powered applications, full-stack web platforms, and blockchain-based projects. I am particularly interested in AI, modern web technologies, scalable applications, and bu[...]
+My recent work includes AI-powered applications, full-stack web platforms, and blockchain-based projects. I am particularly interested in AI, modern web technologies, scalable applications, and building products that solve real-world problems.
 
 * 🎓 B.E. Computer Science Engineering (IoT & Cyber Security including Blockchain Technology)
 * 💻 Full Stack Developer
