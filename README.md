@@ -6,15 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student specializing in IoT, Cyber Security, and Blockchain Technology. I enjoy building practical solutions that combine clean user experiences with solid engineering.
-
-My recent work includes AI-powered applications, full-stack web platforms, and blockchain-based projects. I am particularly interested in AI, modern web technologies, scalable applications, and building products that solve real-world problems.
-
-* 🎓 B.E. Computer Science Engineering (IoT & Cyber Security including Blockchain Technology)
-* 💻 Full Stack Developer
-* 🤖 Building AI-powered applications
-* 🔗 Exploring Blockchain and Web3 technologies
-* 🌱 Learning by building
+I'm a CS Engineering student (IoT & Cyber Security including Blockchain Technology) building AI-powered applications, full-stack web platforms, and blockchain-based projects.
 
 ---
 
@@ -58,33 +50,9 @@ My recent work includes AI-powered applications, full-stack web platforms, and b
 
 ## 🚀 Featured Projects
 
-### 🏥 [CareFlow](https://med-careflow.vercel.app/)
-
-AI-powered receptionist platform built with Next.js, React, Groq API, and Supabase featuring appointment scheduling, authentication, and intelligent customer interactions.
-
-### 🤖 [CodeBot](https://the-code-bot.vercel.app/)
-
-An open-source ChatGPT alternative built with React, TypeScript, Vite, Tailwind CSS, and Groq API with real-time streaming responses, chat persistence, and Markdown support.
-
-### 🎟️ [NFTicketing](https://nftticketing.vercel.app/)
-
-A decentralized NFT event ticketing platform using ERC721 smart contracts, React, Ethers.js, Ethereum (Sepolia), and MetaMask.
-
----
-
-## 💼 Experience
-
-### Technical Operations Management Intern | Eynexa Pharma
-
-* Engineered the company's corporate website, overseeing the full lifecycle from requirements gathering, design, and development to deployment preparation.
-* Spearheaded brand identity development, designing visual assets, logo systems, and guidelines to ensure consistent corporate messaging.
-* Helped with technical setup, system functions, and documentation to support day-to-day digital operations.
-
-### Freelance Full-Stack Developer
-
-* Contributed to the development of a custom responsive e-commerce platform, translating business requirements into technical architecture and design blueprints.
-* Built dynamic frontend components to streamline the user shopping experience and improve product discoverability.
-* Gained experience creating and maintaining project documentation.
+- 🏥 **[CareFlow](https://med-careflow.vercel.app/)** — AI-powered receptionist platform built with Next.js, Groq API, and Supabase.
+- 🤖 **[CodeBot](https://the-code-bot.vercel.app/)** — Open-source ChatGPT alternative built with React, TypeScript, and Groq API.
+- 🎟️ **[NFTicketing](https://nftticketing.vercel.app/)** — Decentralized NFT event ticketing platform using ERC721 smart contracts and MetaMask.
 
 ---
 
@@ -98,23 +66,12 @@ A decentralized NFT event ticketing platform using ERC721 smart contracts, React
 
 ---
 
-## 🎯 Current Focus
-
-* Building AI-powered applications
-* Full-stack development with React and Next.js
-* Exploring cybersecurity and blockchain technologies
-* Learning scalable system design and software architecture
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansingh2k4/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanvsingh641@gmail.com)
-
 ![Discord](https://img.shields.io/badge/Discord-carnage__2k4-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-> "The best way to learn is to build."
+> *"The best way to learn is to build."*
