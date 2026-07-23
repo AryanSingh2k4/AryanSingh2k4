@@ -4,12 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=650&lines=Full+Stack+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+TypeScript;Exploring+AI+and+Emerging+Technologies)
 
-## 👨‍💻 About Me
-
-I'm a CS Engineering student (IoT & Cyber Security including Blockchain Technology) building AI-powered applications, full-stack web platforms, and blockchain-based projects.
-
----
-
 ## ⚒️ Tech Stack
 
 ### Languages
