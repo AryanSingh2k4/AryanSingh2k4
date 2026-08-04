@@ -68,4 +68,4 @@
 
 ---
 
-> *"The best way to learn is to build."*
+> *"The best way to learn is to build"*
