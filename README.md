@@ -35,7 +35,6 @@
 ### AI & Web3
 
 ![AI Applications](https://img.shields.io/badge/AI_Applications-8A2BE2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
