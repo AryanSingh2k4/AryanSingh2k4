@@ -1,6 +1,6 @@
 # Aryan Singh
 
-### Full-Stack Developer | AI Enthusiast | CSE (IoT & Cyber Security including Blockchain Technology)
+### Full-Stack Developer | Cybersecurity & AI Enthusiast | CSE (IoT & Cyber Security including Blockchain Technology)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=650&lines=Full+Stack+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+TypeScript;Exploring+AI+and+Emerging+Technologies)
 
