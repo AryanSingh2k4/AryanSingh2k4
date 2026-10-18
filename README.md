@@ -44,7 +44,6 @@
 ## 🚀 Featured Projects
 
 - 🏥 **[CareFlow](https://med-careflow.vercel.app/)** — AI-powered receptionist platform built with Next.js, Groq API, and Supabase.
-- 🤖 **[CodeBot](https://the-code-bot.vercel.app/)** — Open-source ChatGPT alternative built with React, TypeScript, and Groq API.
 - 🎟️ **[NFTicketing](https://nftticketing.vercel.app/)** — Decentralized NFT event ticketing platform using ERC721 smart contracts and MetaMask.
 
 ---
